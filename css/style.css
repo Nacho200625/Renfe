@@ -1,0 +1,12 @@
+.degradado{
+    background: linear-gradient(to right, #d84343, #6a1b9a);
+}
+.bg-purple{
+    background-color: #6a1b9a;
+}
+.text-purple{
+    color: #6a1b9a;
+}
+.bg-grey{
+    background-color: #dcdcdc;
+}
